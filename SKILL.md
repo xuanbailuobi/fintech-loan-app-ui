@@ -1,5 +1,5 @@
 ---
-name: "fintech-loan-app-ui"
+name: "fintech-loan-app-ui-design-figmamcp"
 description: "Redesign or build fintech/loan app UI in Figma via MCP: restyle screens, illustrations, logo, store screenshots, and a clean component/color/type system."
 ---
 

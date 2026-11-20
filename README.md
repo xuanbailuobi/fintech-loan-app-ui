@@ -1,4 +1,4 @@
-# fintech-loan-app-ui
+# Fintech-loan-app-UI-Design-FigmaMcp
 
 金融借款类 App UI 全套设计技能（Figma MCP）。
 
@@ -8,10 +8,10 @@
 
 ## 安装
 
-把 `SKILL.md` 放到 Claude 技能目录下的 `fintech-loan-app-ui/` 文件夹，例如：
+把 `SKILL.md` 放到 Claude 技能目录下的 `fintech-loan-app-ui-design-figmamcp/` 文件夹，例如：
 
 ```
-~/.claude/skills/fintech-loan-app-ui/SKILL.md
+~/.claude/skills/fintech-loan-app-ui-design-figmamcp/SKILL.md
 ```
 
 ## 版本
